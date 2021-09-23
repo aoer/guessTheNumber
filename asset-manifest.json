@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/guessTheNumber/static/css/main.7420eb08.chunk.css",
+    "main.js": "/guessTheNumber/static/js/main.55476795.chunk.js",
+    "main.js.map": "/guessTheNumber/static/js/main.55476795.chunk.js.map",
+    "runtime-main.js": "/guessTheNumber/static/js/runtime-main.1f7de4a8.js",
+    "runtime-main.js.map": "/guessTheNumber/static/js/runtime-main.1f7de4a8.js.map",
+    "static/js/2.5b09b36a.chunk.js": "/guessTheNumber/static/js/2.5b09b36a.chunk.js",
+    "static/js/2.5b09b36a.chunk.js.map": "/guessTheNumber/static/js/2.5b09b36a.chunk.js.map",
+    "static/js/3.27b4a8ed.chunk.js": "/guessTheNumber/static/js/3.27b4a8ed.chunk.js",
+    "static/js/3.27b4a8ed.chunk.js.map": "/guessTheNumber/static/js/3.27b4a8ed.chunk.js.map",
+    "index.html": "/guessTheNumber/index.html",
+    "static/css/main.7420eb08.chunk.css.map": "/guessTheNumber/static/css/main.7420eb08.chunk.css.map",
+    "static/js/2.5b09b36a.chunk.js.LICENSE.txt": "/guessTheNumber/static/js/2.5b09b36a.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/guessTheNumber/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1f7de4a8.js",
+    "static/js/2.5b09b36a.chunk.js",
+    "static/css/main.7420eb08.chunk.css",
+    "static/js/main.55476795.chunk.js"
+  ]
+}
