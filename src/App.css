@@ -1,0 +1,83 @@
+.App {
+  min-height: 100vh;
+  background-color: aqua;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.GuessTheNumber {
+  background-color: white;
+  border-radius: 10%;
+  padding: 5vh;
+  margin: 1vh;
+}
+
+.GuessTheNumbers {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.Tweets {
+  min-height: 60vh;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.tweet {
+  /* border: 2px solid black; */
+  height: 300px;
+  min-width: 300px;
+  background-color: white;
+  border-radius: 20%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  margin: 1vh;
+}
+
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+
+/*
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+*/
